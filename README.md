@@ -5,20 +5,23 @@ Student Name:
 DONTHI SOUMYA 
 Research Due date for the submission : 20th Jan 2022
 ----------------------------------------------------------------------------------------
-1.3	Aims
+Research aims
 ----------------------------------------------------------------------------------------
 The main aim of this research is to save human lives from ongoing covid-19 worldwide pandemic by improving accurate disease prediction processing. And also help healthcare organizations to improve their services by designing Automatic Doctor Machine (ADM) and grow business using Machine Learning (ML) algorithms. Focus on decreasing human efforts, time and cost taken for dealing disease prediction. 
-
-5	Machine Learning (ML)
+Practical
 ----------------------------------------------------------------------------------------
-5.1	Random Forest (RF)
-5.2	K-Nearest Neighbor (KNN)
-5.3	Support Vector Machine (SVM)
-5.4	Hybrid Support Vector Machine (Custom SVM)
-5.5	Extreme Gradient Boosting (XGBoost)
-5.6	Logistic Regression (LR)
-5.7	Decision Tree (DT)
-5.8	Naive Bayes Model (NBM)
+Proposed analysis provided accurate disease prediction using modified SVM machine learning algorithm with 98.471% accuracy using minimum resource utilization. Research can be really helpful for COVID healthcare system to identify COVID-19 disease (including   alpha, gamma, beta, delta, and omicron) and other 40 common diseases using accurate symptom based analysis without a doctor, it also gives possible other symptoms  to the patient and precautions.
+
+Machine Learning (ML)
+----------------------------------------------------------------------------------------
+1	Random Forest (RF)
+2	K-Nearest Neighbor (KNN)
+3	Support Vector Machine (SVM)
+4	Hybrid Support Vector Machine (Custom SVM)
+5	Extreme Gradient Boosting (XGBoost)
+6	Logistic Regression (LR)
+7	Decision Tree (DT)
+8	Naive Bayes Model (NBM)
 
 Best model for the dise
 ----------------------------------------------------------------------------------------
